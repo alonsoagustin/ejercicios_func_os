@@ -1,4 +1,4 @@
-from ejercicio_1 import aplicar_filtro
+from ejercicio_1.functions import aplicar_filtro
 
 def test_aplicar_filtro_con_pares():
     numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
