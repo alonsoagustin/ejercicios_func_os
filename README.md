@@ -11,7 +11,7 @@ Las funciones de orden superior son aquellas que pueden tomar otras funciones co
 0. Clona el repositorio
 
 ```cmd
-git clone https://github.com/alonsoagustin/zoo.git
+git clone https://github.com/alonsoagustin/ejercicios_func_os.git
 ```
 
 1. Crea un entorno virtual e instala las dependencias
