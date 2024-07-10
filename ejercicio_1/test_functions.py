@@ -1,0 +1,1 @@
+from ejercicio_1 import aplicar_filtro

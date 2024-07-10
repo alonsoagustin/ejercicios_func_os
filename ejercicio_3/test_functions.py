@@ -1,0 +1,1 @@
+from ejercicio_3.functions import aplicar_reduccion
